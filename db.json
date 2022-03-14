@@ -1,0 +1,24 @@
+[
+  {
+    "coffeeshopid": "123",
+    "orders": [
+      {
+        "orderid": "13",
+        "endoff": "1632165738",
+        "payed": "false",
+        "qr": "https://coffeetogo.madskill.ru/images/xkdcjs.png",
+        "products": [
+          {
+            "productid": "13",
+            "count": "1",
+            "volume": "200",
+            "coffee": "Ephiopia",
+            "sugar": "true",
+            "milk": "true",
+            "syrup": "Chocolate"
+          }
+        ]
+      }
+    ]
+  }
+]
